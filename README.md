@@ -6,6 +6,7 @@ The dataset contains all transactions between 01/12/2010 and 09/12/2011 for a UK
 Number of Instances: 541909 <br>
 Number of Attributes: 8 <br>
 No Missing Values <br>
+Data Resource: https://archive.ics.uci.edu/ml/datasets/Online+Retail 
 
 ## Steps: 
  1. Handling missing values
