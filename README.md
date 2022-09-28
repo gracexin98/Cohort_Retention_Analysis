@@ -1,4 +1,4 @@
-# Cohort_Retention_Analysis
+# E-Commerce_Analysis
 <b> Applied SQL, Tableau, cohort retention analysis in the project. </b>
 
 ## Data :
